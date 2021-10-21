@@ -37,7 +37,7 @@ feat(main page): add hat wobble
 - `chore`: e.g. updating grunt tasks; no production code change
 - `cross-cutting`: e.g. logging, dependency injection
 - `ci`: changes to the build/release config
-- `docs`: (hanges to the documentation
+- `docs`: changes to the documentation
 - `feat`: new feature for the user, not a new feature for build script
 - `fix`: bug fix for the user, not a fix to a build script
 - `format`: formatting, e.g. tabs to/from spaces, remove trailing whitespace
