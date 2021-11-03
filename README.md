@@ -35,8 +35,10 @@ feat(main page): add hat wobble
 - `buildfix`: e.g. add missing semicolon
 - `bump`: version update
 - `chore`: e.g. updating grunt tasks; no production code change
+- `config`: changes in configuration
 - `cross-cutting`: e.g. logging, dependency injection
 - `ci`: changes to the build/release config
+- `deploy`: changes to deployment scripts
 - `docs`: changes to the documentation
 - `feat`: new feature for the user, not a new feature for build script
 - `fix`: bug fix for the user, not a fix to a build script
