@@ -32,6 +32,7 @@ feat(main page): add hat wobble
 
 ## Prefixes
 
+- `benchmark`: benchmarks-related code
 - `buildfix`: e.g. add missing semicolon
 - `bump`: version update
 - `chore`: e.g. updating grunt tasks; no production code change
