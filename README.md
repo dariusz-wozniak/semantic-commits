@@ -2,7 +2,7 @@
 
 See how a minor change to your commit message style can make you a better programmer.
 
-Format: `<type>(<scope>): <subject>`
+Format: `<type> (<scope>): <subject>`
 
 `<scope>` is optional
 
@@ -20,7 +20,7 @@ feat: add hat wobble
 Or, with the scope:
 
 ```
-feat(main page): add hat wobble
+feat (main page): add hat wobble
 ^--^ ^--------^  ^------------^
 |    |           |
 |    +-> Scope (optional)
