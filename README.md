@@ -37,7 +37,7 @@ feat (main page): add hat wobble
 - `bump`: version update
 - `chore`: e.g. updating grunt tasks; no production code change
 - `config`: changes in configuration
-- `cross-cutting`: e.g. logging, dependency injection
+- `content`: content data-related change
 - `ci`: changes to the build/release config
 - `deploy`: changes to deployment scripts
 - `docs`: changes to the documentation
